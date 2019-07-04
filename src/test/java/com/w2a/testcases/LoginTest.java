@@ -9,9 +9,15 @@ public class LoginTest extends TestBase{
 
 	
 	@Test
-	public void loginAsBankManager() throws InterruptedException {
+	public void login() throws InterruptedException {
 		log.debug("Inside login test");
 		driver.findElement(By.cssSelector(OR.getProperty("bmlBtn_CSS"))).click();
+		Thread.sleep(3000);
+		driver.findElement(By.cssSelector(OR.getProperty("email"))).sendKeys("ankitjain.vt@gmail.com");
+		Thread.sleep(3000);
+		driver.findElement(By.cssSelector(OR.getProperty("pwd"))).sendKeys("123456");;
+		Thread.sleep(3000);
+		driver.findElement(By.cssSelector(OR.getProperty("submit"))).click();
 		Thread.sleep(3000);
 		
 		log.debug("Login successfully executed!!!");
