@@ -2,20 +2,20 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-07-04T12:00:43Z" name="Default suite" finished-at="2019-07-04T12:00:56Z" duration-ms="13007">
+  <suite started-at="2019-07-04T18:04:15Z" name="Default suite" finished-at="2019-07-04T18:04:28Z" duration-ms="12960">
     <groups>
     </groups>
-    <test started-at="2019-07-04T12:00:43Z" name="Default test" finished-at="2019-07-04T12:00:56Z" duration-ms="13007">
+    <test started-at="2019-07-04T18:04:15Z" name="Default test" finished-at="2019-07-04T18:04:28Z" duration-ms="12960">
       <class name="com.w2a.testcases.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.LoginTest@13df2a8c]" started-at="2019-07-04T12:00:27Z" name="setUp" finished-at="2019-07-04T12:00:43Z" duration-ms="15087" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.LoginTest@13d9cbf5]" started-at="2019-07-04T18:04:06Z" name="setUp" finished-at="2019-07-04T18:04:15Z" duration-ms="8934" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="login()[pri:0, instance:com.w2a.testcases.LoginTest@13df2a8c]" started-at="2019-07-04T12:00:43Z" name="login" finished-at="2019-07-04T12:00:56Z" duration-ms="12971" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.w2a.testcases.LoginTest@13d9cbf5]" started-at="2019-07-04T18:04:15Z" name="login" finished-at="2019-07-04T18:04:28Z" duration-ms="12929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@13df2a8c]" started-at="2019-07-04T12:00:56Z" name="tearDown" finished-at="2019-07-04T12:00:57Z" duration-ms="1134" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@13d9cbf5]" started-at="2019-07-04T18:04:28Z" name="tearDown" finished-at="2019-07-04T18:04:29Z" duration-ms="791" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

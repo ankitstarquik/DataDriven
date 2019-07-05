@@ -1,6 +1,6 @@
-17:30:27,943 DEBUG devpinoylogger:49 - Config file loaded!!!!
-17:30:27,945 DEBUG devpinoylogger:65 - OR file loaded!!!!
-17:30:42,352 DEBUG devpinoylogger:90 - Nqvigated to Test Site URL
-17:30:43,063 DEBUG devpinoylogger:13 - Inside login test
-17:30:56,019 DEBUG devpinoylogger:23 - Login successfully executed!!!
-17:30:57,251 DEBUG devpinoylogger:107 - Test execution completed!!!
+23:34:06,486 DEBUG devpinoylogger:51 - Config file loaded!!!!
+23:34:06,489 DEBUG devpinoylogger:67 - OR file loaded!!!!
+23:34:14,852 DEBUG devpinoylogger:92 - Nqvigated to Test Site URL
+23:34:15,444 DEBUG devpinoylogger:14 - Inside login test
+23:34:28,366 DEBUG devpinoylogger:27 - Login successfully executed!!!
+23:34:29,191 DEBUG devpinoylogger:121 - Test execution completed!!!
